@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px" height="30px"> Hello, I'm Abid
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hello, I'm Abid
 
 A Computer Science with Management graduate with a strong interest in the tech industry, specifically software development, engineering and consulting.
 Passionate about web development and committed to continuous self-improvement, aiming high to reach my full potential in a dynamic and fulling career.
