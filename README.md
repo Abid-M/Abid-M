@@ -27,6 +27,7 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ## 🤝🏻&nbsp;Connect with Me
 
 <a href="mailto:abid1702@outlook.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge"/></a>
+![Microsoft Outlook Badge](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=flat)
 <a href="https://www.linkedin.com/in/abid-miah-728268198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/></a>
 <a href="https://github.com/Abid-M/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://paypal.me/abzukltd"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
