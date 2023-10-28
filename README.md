@@ -1,4 +1,4 @@
-## 👋&nbsp; Hello, I'm [Abid](https://abid-miah.info/about-skills/)
+## 👋&nbsp;Hello, I'm [Abid](https://abid-miah.info/about-skills/)
 
 A Computer Science with Management graduate with a strong interest in the tech industry, specifically software development, engineering and consulting.
 Passionate about web development and committed to continuous self-improvement, aiming high to reach my full potential in a dynamic and fulling career.
