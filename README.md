@@ -31,6 +31,6 @@ Here are a few things I've picked up along my learning journey : <br><br>
 <a href="mailto:abid1702@outlook.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge"/></a>
 <a href="https://paypal.me/abzukltd"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 
-## 😂Here is a random joke that is probably not funny!
+## 🤔Here is a random joke that is probably not funny!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
