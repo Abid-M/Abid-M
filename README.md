@@ -1,9 +1,9 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hello, I'm [Abid](https://abid-miah.info/about-skills/)
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px" height="30px"> Hello, I'm Abid
 
 A Computer Science with Management graduate with a strong interest in the tech industry, specifically software development, engineering and consulting.
 Passionate about web development and committed to continuous self-improvement, aiming high to reach my full potential in a dynamic and fulling career.
 
-#### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 Here are a few things I've picked up along my learning journey : <br><br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -23,13 +23,13 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)&nbsp;
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)&nbsp;
 
-#### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:abid1702@outlook.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/abid-miah-728268198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/></a>
 <a href="https://github.com/Abid-M/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://paypal.me/abzukltd"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 
-#### 😂 Here is a random joke that is probably not funny!
+## 😂 Here is a random joke that is probably not funny!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
