@@ -10,12 +10,12 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Java] (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Python] (https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)&nbsp;
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)&nbsp;
-![React] (https://shields.io/badge/react-black?logo=react&style=for-the-badge)&nbsp;
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)&nbsp;
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)&nbsp;
 
@@ -39,3 +39,4 @@ Here are a few things I've picked up along my learning journey : <br><br>
 
 ## 😂 Here is a random joke that is probably not funny!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
