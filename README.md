@@ -1,4 +1,4 @@
-## <img src="https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="30px" height="30px"> Hello, I'm [Abid](https://abid-miah.info/about-skills/)
+## <img src="https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="30px" height="30px" style="display: inline-block"> Hello, I'm [Abid](https://abid-miah.info/about-skills/)
 
 A Computer Science with Management graduate with a strong interest in the tech industry, specifically software development, engineering and consulting.
 Passionate about web development and committed to continuous self-improvement, aiming high to reach my full potential in a dynamic and fulling career.
