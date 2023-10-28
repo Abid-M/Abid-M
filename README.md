@@ -17,6 +17,7 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)&nbsp;
+![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)&nbsp;
 ![Railway Badge](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=for-the-badge)&nbsp;
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)&nbsp;
