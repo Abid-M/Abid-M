@@ -1,7 +1,9 @@
 ## 👋&nbsp;Hello, I'm [Abid](https://abid-miah.info/about-skills/)
 
-A Computer Science with Management graduate with a strong interest in the tech industry, specifically software development, engineering and consulting.
-Passionate about web development and committed to continuous self-improvement, aiming high to reach my full potential in a dynamic and fulling career.
+As a recent graduate in Computer Science with Management from Queen Mary University, I bring a strong passion for
+the tech industry, with a particular focus on software development, engineering, and consulting. I am deeply enthusiastic
+about web development and am dedicated to continuous self-improvement. My goal is to aim high and to reach my full
+potential within a dynamic and fulfilling career.
 
 ## 🛠&nbsp;Tech Stack
 
