@@ -1,9 +1,6 @@
 ## 👋&nbsp;Hello, I'm [Abid](https://abid-miah.info/about-skills/)
 
-As a recent graduate in Computer Science with Management from Queen Mary University, I bring a strong passion for
-the tech industry, with a particular focus on software development, engineering, and consulting. I am deeply enthusiastic
-about web development and am dedicated to continuous self-improvement. My goal is to aim high and to reach my full
-potential within a dynamic and fulfilling career.
+Hi! I'm Abid, a Junior SDET Consultant, driven by a profound passion for technology. My goal is to achieve success in life and my career, striving to reach my fullest potential and make a lasting impact in the dynamic world of technology.
 
 ## 🛠&nbsp;Tech Stack
 
