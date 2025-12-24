@@ -1,6 +1,6 @@
 ## 👋&nbsp;Hello, I'm [Abid](https://abid-miah.info/about-skills/)
 
-Hi! I'm Abid, a Junior SDET Consultant, driven by a profound passion for technology. My goal is to achieve success in life and my career, striving to reach my fullest potential and make a lasting impact in the dynamic world of technology.
+Hi! I'm Abid, a Software Engineer @ NatWest, driven by a profound passion for technology. My goal is to achieve success in life and my career, striving to reach my fullest potential and make a lasting impact in the dynamic world of technology.
 
 ## 🛠&nbsp;Tech Stack
 
